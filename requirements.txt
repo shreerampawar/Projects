@@ -1,0 +1,5 @@
+gradio==4.29.0
+keras==2.15.0
+numpy==1.26.4
+Pillow==10.2.0
+tensorflow==2.15.0
